@@ -1,0 +1,13 @@
+.calculator{
+  border: 1px solid black;
+  width: 200px;
+  border-radius: 5px;
+  background-color: rgb(165, 163, 163);
+}
+
+
+.container{
+  display: flex;
+  justify-content: center;
+  padding-top: 5%;
+}
