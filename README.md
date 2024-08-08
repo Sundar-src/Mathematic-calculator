@@ -1,8 +1,14 @@
-# React + Vite
+# ToDo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple To-Do List application built using React and Vite. The app allows users to add tasks with a name and a due date. It provides a clean and responsive UI using Bootstrap and FontAwesome icons.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add New To-Do**: Users can add new to-do items with a name and due date.
+- **Responsive Design**: The app is responsive and works well on different screen sizes.
+- **Clear and Simple UI**: Uses Bootstrap for a clean and modern interface.
+- **React Components**: The app is built with reusable React components.
+
+## Demo
+
+You can see a live demo of the app 
