@@ -1,4 +1,4 @@
-# ToDo List App
+# Mathematic Calculator
 
 This is a simple mathematic calculator built using React and Vite. The app allows users to perform math task.
 
