@@ -4,5 +4,5 @@ This is a simple mathematic calculator built using React and Vite. The app allow
 
 ## Demo
 
-You can see a live demo  -
+You can see a live demo here -
 https://math-calculator-react.netlify.app/
