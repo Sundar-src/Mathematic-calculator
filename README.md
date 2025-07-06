@@ -6,3 +6,7 @@ This is a simple mathematic calculator built using React and Vite. The app allow
 
 You can see a live demo here -
 https://math-calculator-react.netlify.app/
+
+## 📷 Preview:
+![Card Slider Preview](./Assets/screenshot.png)
+
